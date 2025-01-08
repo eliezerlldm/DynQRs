@@ -1,0 +1,2 @@
+# DynQRs
+Control de Qr
